@@ -1,0 +1,9 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+span {
+    color: brown;
+}
