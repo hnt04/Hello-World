@@ -1,3 +1,1 @@
-const func = function () {};
-func.displayName = 'Thao';
-func;
+document.getElementById("display").innerHTML = "Thao";
